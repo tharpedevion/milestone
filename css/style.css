@@ -565,7 +565,6 @@ h6 {
 }
 
 #about .about-container .icon-box .title {
-  margin-left: 80px;
   font-weight: 600;
   margin-bottom: 5px;
   font-size: 18px;
@@ -576,7 +575,6 @@ h6 {
 }
 
 #about .about-container .icon-box .description {
-  margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
 }
